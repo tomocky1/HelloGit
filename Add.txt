@@ -1,3 +1,2 @@
 追加しました
-Windows Git から追加
-Eclipse EGit から追加
+２回目の追加
